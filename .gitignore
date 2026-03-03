@@ -1,0 +1,5 @@
+infra/.env
+*.pyc
+__pycache__/
+*.pem
+.env
